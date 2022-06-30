@@ -16,5 +16,5 @@ Age, Passenger Class, Fare, Parent, Siblings, and so on.
 
 
 Logistics Regression and Random Forest Classifier models were trained
-but the Logistics Regression model was submitted has it occurred to the
-have a better performance on the test data that was introduced to the model 
+but the Logistics Regression model was submitted because it has a 
+better performance on the test data that was introduced to the model 
